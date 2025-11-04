@@ -1,3 +1,10 @@
+<style>
+html, body {
+    background-color: white !important;
+    color: black !important;
+}
+</style>
+
     
 <img src="assets/logo-akuri-black.png" alt="Logo Akuri" align="left" width="25%" />
 <br />
